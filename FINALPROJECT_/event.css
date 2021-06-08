@@ -1,0 +1,232 @@
+body{
+	padding: 15PX;
+	margin: 0;
+	background: coral;
+}
+
+.events
+{
+	padding: 10px;
+	margin-top: 10px;
+	margin-left: 25px;
+	margin-right: 25px;
+	size: relative;
+	background: #fff;
+}
+.events .january
+{
+	margin-bottom: 25px;
+	margin-right: 25px;
+	margin-left: 25px;	
+	background: lightgray;
+}
+.events .february
+{
+	margin-bottom: 25px;
+	margin-right: 25px;
+	margin-left: 25px;	
+	background: lightgray;
+}
+.events .march
+{
+	margin-bottom: 25px;
+	margin-right: 25px;
+	margin-left: 25px;	
+	background: lightgray;
+}
+.events .april
+{
+	margin-bottom: 25px;
+	margin-right: 25px;
+	margin-left: 25px;	
+	background: lightgray;
+}
+.events .may
+{
+	margin-bottom: 25px;
+	margin-right: 25px;
+	margin-left: 25px;	
+	background: lightgray;
+}
+.events .june
+{
+	margin-bottom: 25px;
+	margin-right: 25px;
+	margin-left: 25px;	
+	background: lightgray;
+}
+.events .july
+{
+	margin-bottom: 25px;
+	margin-right: 25px;
+	margin-left: 25px;	
+	background: lightgray;
+}
+.events .august
+{
+	margin-bottom: 25px;
+	margin-right: 25px;
+	margin-left: 25px;	
+	background: lightgray;
+}
+.events .september
+{
+	margin-bottom: 25px;
+	margin-right: 25px;
+	margin-left: 25px;	
+	background: lightgray;
+}
+.events .october
+{
+	margin-bottom: 25px;
+	margin-right: 25px;
+	margin-left: 25px;	
+	background: lightgray;
+}
+.events .november
+{
+	margin-bottom: 25px;
+	margin-right: 25px;
+	margin-left: 25px;	
+	background: lightgray;
+}
+.events .december
+{
+	margin-bottom: 25px;
+	margin-right: 25px;
+	margin-left: 25px;	
+	background: lightgray;
+}
+.events .january .date
+{
+	font-size: 48px;
+	font-family: consolas;
+}
+.events .january .event
+{
+	margin-left: 25px;
+	font-size: 24px;
+	font-family: consolas;	
+}
+.events .february .date
+{
+	font-size: 48px;
+	font-family: consolas;
+}
+.events .february .event
+{
+	margin-left: 25px;
+	font-size: 24px;
+	font-family: consolas;	
+}
+.events .march .date
+{
+	font-size: 48px;
+	font-family: consolas;
+}
+.events .march .event
+{
+	margin-left: 25px;
+	font-size: 24px;
+	font-family: consolas;	
+}
+.events .april .date
+{
+	font-size: 48px;
+	font-family: consolas;
+}
+.events .april .event
+{
+	margin-left: 25px;
+	font-size: 24px;
+	font-family: consolas;	
+}
+.events .may .date
+{
+	font-size: 48px;
+	font-family: consolas;
+}
+.events .may .event
+{
+	margin-left: 25px;
+	font-size: 24px;
+	font-family: consolas;	
+}
+.events .june .date
+{
+	font-size: 48px;
+	font-family: consolas;
+}
+.events .june .event
+{
+	margin-left: 25px;
+	font-size: 24px;
+	font-family: consolas;	
+}
+.events .july .date
+{
+	font-size: 48px;
+	font-family: consolas;
+}
+.events .july .event
+{
+	margin-left: 25px;
+	font-size: 24px;
+	font-family: consolas;	
+}
+.events .august .date
+{
+	font-size: 48px;
+	font-family: consolas;
+}
+.events .august .event
+{
+	margin-left: 25px;
+	font-size: 24px;
+	font-family: consolas;	
+}
+.events .september .date
+{
+	font-size: 48px;
+	font-family: consolas;
+}
+.events .september .event
+{
+	margin-left: 25px;
+	font-size: 24px;
+	font-family: consolas;	
+}
+.events .october .date
+{
+	font-size: 48px;
+	font-family: consolas;
+}
+.events .october .event
+{
+	margin-left: 25px;
+	font-size: 24px;
+	font-family: consolas;	
+}
+.events .november .date
+{
+	font-size: 48px;
+	font-family: consolas;
+}
+.events .november .event
+{
+	margin-left: 25px;
+	font-size: 24px;
+	font-family: consolas;	
+}
+.events .december .date
+{
+	font-size: 48px;
+	font-family: consolas;
+}
+.events .december .event
+{
+	margin-left: 25px;
+	font-size: 24px;
+	font-family: consolas;	
+}
+

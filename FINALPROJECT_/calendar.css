@@ -1,0 +1,67 @@
+body {
+    font-family: Calibri;
+    
+}
+h1 {
+    color: coral;
+}
+
+a{
+    text-decoration: none;
+ 
+}
+
+#year{
+    width: 900px;
+    height: 1200px;
+    
+}
+
+div.jan, div.feb, div.mar, div.apr, div.may, div.june, div.july, div.aug, div.sept, div.oct, div.nov, div.dec {
+  
+    float: left;
+    margin-left: 115px;
+    margin-top: 10px;
+}
+table, td, tr,th {
+  border: none;
+  border-collapse: collapse;
+}
+th, td {
+    padding: 10px;
+}
+th {
+  border-bottom: 1px solid #ddd;
+}
+b {
+    color: coral;
+}
+
+
+ul {
+    border-radius: 15px;
+    list-style-type: none;
+    margin: 0;
+    overflow: hidden;
+    background-color: lightgray;
+}
+li {
+float: left;
+}
+#note {
+    
+    margin-top: 15px;
+    float: right;
+}
+li a {
+	font-family: Calibri;
+    display: inline-block;
+    color: coral;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover {
+    border-radius: 10px;
+	background-color: dimgrey;
+}
