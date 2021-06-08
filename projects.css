@@ -1,0 +1,137 @@
+/*WORKS PAGE*/
+
+body {
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+/*NAVIGATION BAR*/
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    overflow: hidden;
+}
+li {
+    margin-left: 50px;
+    float: left;
+}
+li a {
+	font-family: Cambria Math;
+    display: inline-block;
+    color: #282020;
+    text-align: center;
+    padding: 14px 30px;
+    text-decoration: none;
+}
+li a:hover {
+	background-color: #F8C098;
+}
+
+/*TITLE*/
+
+.title {
+    margin-top: 25px;
+    margin-bottom: 30px;
+}
+#title {
+    margin: 0;
+    font-family: Cambria Math;
+    color: #282020;
+    font-size: 40px;
+    font-weight: bolder;
+}
+#title1 {
+    margin: 0;
+    font-family: Cambria Math;
+}
+
+/*RIGHT WINDOW*/
+
+#fixedcontent {
+    
+    float: right;
+    display: block;
+    position: fixed;
+    top: 175px; 
+    left: 810px;
+    bottom: 100px;
+    bottom: 200;
+    width: 250px;
+    height: 420px;
+}
+#bod {
+    width: 860px;
+}
+
+
+/*CONTENT*/
+
+#content {   
+    float: left;
+    width: 550px;
+    height: 1050px;
+}
+
+.myDIV {
+    width: 550px;
+    height: 420px;
+    overflow-x:hidden;
+    overflow-y:auto;
+}
+
+.myDIV::-webkit-scrollbar {
+    display: none;
+}
+
+p {
+    font-family: Cambria Math;
+    color: #282020;
+    margin: 0;
+}
+
+#soc {
+   float: left;
+   margin-left: 10px;
+}
+
+#git {
+    width: 120px;
+    height: 20px;
+    background-color:#282020;
+    margin-left: 65px;
+    margin-top: 5px;
+}
+
+/*GALLERY*/
+
+div.pic {
+
+    
+    margin: 5px;
+    border: 1px solid #F8C098;
+    float: left;
+    width: 250px;
+    background-color: #282020;
+}
+
+div.pic:hover {
+    border: 1px solid #F8C098;
+}
+
+div.pic img {
+    width: auto;
+    height: auto;
+}
+
+div.pa {
+    padding: 15px;
+    text-align: center;
+    
+}
+a {
+	color: white;
+	text-decoration: none;
+}
+
+
