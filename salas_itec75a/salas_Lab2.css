@@ -10,17 +10,17 @@
     font-family: Courier, monospace;
     letter-spacing: 10px;
     font-size: 50px;
-    background-color: #c8a2c8;
+    background-color: orange;
     border-radius: 50px;
 }
 .col-sm:hover {
     border-radius: 50px;
-	background-color: lightgray;
+	background-color: orange;
 }
 .col-sm {
     text-align: center;
     font-family: Courier, monospace;
-    color: #c8a2c8;
+    color: orange;
     font-weight: bolder;
 }
 #g{
@@ -33,13 +33,14 @@ p{
     font-weight: bold;
 }
 
-.row{
+.row {
     margin-top: 40px;
 }
-#bor{
+#bor {
     font-weight: bolder;
 }
-#bday{
-    background-color: black;
+#bday {
+    background-color: orange;
     border-radius: 10px;
+    color: black;
 }
